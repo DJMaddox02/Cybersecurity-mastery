@@ -11,8 +11,7 @@ I'm currently building my skills through hands-on labs in log analysis, threat d
 
 ## Projects & Labs
 - [Cybersecurity Labs Portfolio] (https://github.com/DJMaddox02/Cybersecurity-mastery)
-- [TryHackMe Progress] (https://tryhackme.com/p/
-- [CyberDefenders Writeups] (https://github.com/DJMAddox02/Cyberdefenders-writeups)
+- [TryHackMe Progress] (https://tryhackme.com/p/DJMaddox02)
 
 ## Learning & Certifications
 - CompTIA Security+ (in progress)
