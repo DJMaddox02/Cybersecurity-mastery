@@ -19,5 +19,19 @@ import_file = "allow_list.txt"
 with open(import_file, "r") as file:
   ip_addresses = file.read()
 ```
-Opened the file in read mode to access stored IPs
-Used with to ensure the file is closed automatically 
+- Opened the file in read mode to access stored IPs
+- Used with to ensure the file is closed automatically
+
+### 2. Convert File Contents into a List
+```python
+ip_addresses = ip_addresses.split()
+```
+- Used .split() to turn tbe IP string into a Python list
+
+### 3. Iterate Through the Remove List and Clean
+```python
+for element in remove_list:
+  if element in ip_addresses:
+    ip_addresses.remove(element)
+```
+- Used a for loop and if statement to ensure only matching IPs are removed
