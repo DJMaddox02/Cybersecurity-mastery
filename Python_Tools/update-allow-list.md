@@ -1,4 +1,3 @@
-
 # Lab: Updating an Allow List using Python Algorithm
 Date Completed: 3/25/2025
 Skills Practiced: File handeling in Python, list operations, data cleanup
