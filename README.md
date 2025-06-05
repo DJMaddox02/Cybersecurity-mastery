@@ -10,9 +10,9 @@ I'm currently building my skills through hands-on labs in log analysis, threat d
 - Ceritfications: Google Cybersecurity, Security+ (in progress)
 
 ## Projects & Labs
-- [Cybersecurity Labs Portfolio] (https://github.com/DJMaddox02/cybersacurity-mastery)
+- [Cybersecurity Labs Portfolio] (https://github.com/DJMaddox02/Cybersacurity-mastery)
 - [TryHackMe Progress] (https://tryhackme.com/p/
-- [CyberDefenders Writeups] (https://github.com/DJMAddox02/cyberdefenders-writeups)
+- [CyberDefenders Writeups] (https://github.com/DJMAddox02/Cyberdefenders-writeups)
 
 ## Learning & Certifications
 - CompTIA Security+ (in progress)
