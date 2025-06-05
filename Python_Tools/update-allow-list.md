@@ -18,3 +18,6 @@ I created a Python algorithm to:
 import_file = "allow_list.txt"
 with open(import_file, "r") as file:
   ip_addresses = file.read()
+```
+Opened the file in read mode to access stored IPs
+Used with to ensure the file is closed automatically 
