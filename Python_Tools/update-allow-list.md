@@ -14,7 +14,7 @@ I created a Python algorithm to:
 
 ## Key Steps in the Algorithm
 ### 1. Open the Allow List File
-'''python 
+```python 
 import_file = "allow_list.txt"
 with open(import_file, "r") as file:
   ip_addresses = file.read()
