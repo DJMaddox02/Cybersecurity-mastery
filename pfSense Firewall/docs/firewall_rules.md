@@ -6,7 +6,6 @@ This guied doccuments how to configure a firewall rule in **pfSense** that block
 
 ## Objective
 Prevent any devices on the **LAN Subnet** from accessing services hosted on th **WAN Subnet**
----
 
 ## Rule Configuration
 | Setting              | Value                             |
