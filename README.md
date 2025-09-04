@@ -21,9 +21,10 @@ Bringing a mix of technical skills, leadership experience, and competitive midse
 - [TryHackMe Progress] (https://tryhackme.com/p/DJMaddox02)
 
 ## Learning & Certifications
-- CompTIA Security+
-- ISC2 CC
-- Google Cybersecurity Certification
+- CompTIA Security+ (June 2025)
+- ISC2 CC (July 2025)
+- Google Cybersecurity Certification (May 2025)
+- AZ-900 (In Progress)
 
 ## Connect With Me
 - Linkedin: www.linkedin.com/in/dajour-maddox-44112712a
