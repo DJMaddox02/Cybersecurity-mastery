@@ -13,7 +13,7 @@ Bringing a mix of technical skills, leadership experience, and competitive midse
 - Systems & Networking: Windows 11, VirtualBox, Firewalls, Windows Active Directory, Networking Basics
 - Security: Incident Response Frameworks (NIST), Malware Response, Access Controls
 - Programming & Data: Python, SQL
-- Collaboration & Leadership: Trainig teams, provisioning systems, technical support
+- Collaboration & Leadership: Training teams, provisioning systems, technical support
 
 ## Projects & Labs
 - Home Lab: pfSense Firewall Deployment
