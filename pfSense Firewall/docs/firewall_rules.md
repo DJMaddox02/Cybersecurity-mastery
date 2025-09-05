@@ -36,7 +36,7 @@ Prevent any devices on the **LAN Subnet** from accessing services hosted on th *
      - **Destination:** `WAN net`
 5. **Add Description**
    ```text
-   Block LAN clientsfrom accessing WAN services
+   Block LAN clients from accessing WAN services
    ```
 6. **Save & Apply**
      - Click **Save**
