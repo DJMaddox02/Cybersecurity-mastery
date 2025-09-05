@@ -16,7 +16,8 @@ Bringing a mix of technical skills, leadership experience, and competitive midse
 - Collaboration & Leadership: Trainig teams, provisioning systems, technical support
 
 ## Projects & Labs
-- Incident Response Plan- Built NIST-based incident response template and walked through malware attack scenario
+- Home Lab: pfSense Firewall Deployment
+    - Built and configured a virtual pfsense firewall in VirtualBox, implementing LAN-to-WAN security rules, IPv4/IPv6 controls, and network segmentation for hands-on system hardening experience.
 - SQL & Python Practice- Repository of scripts and quieries demostrating problem-solving with data
 - [TryHackMe Progress] (https://tryhackme.com/p/DJMaddox02)
 
