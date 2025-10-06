@@ -7,6 +7,8 @@
         - **Architecture**: AMD64 (64-bit)
         - **Installer**: CD Image (ISO) Installer
         - **Mirror**: Closest to your location
+<img width="1182" height="645" alt="image" src="https://github.com/user-attachments/assets/ef99153f-ddb4-4f91-84fb-14e999ef570c" />
+
      
 ## 2. Create a New Virtual Machine 
 - open **VirtualBox** -> Click **New**.
