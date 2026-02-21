@@ -1,2 +1,2 @@
 # GRC Assessments
-This folder contains risk registers, policy evaluations, and compliance documentation aligned with governance, risk, and cybersecuroty standards.
+Cybersecurity Risk & GRC portfolio demonstrating hands-on experience with NIST framework alignment, risk assessments, control evaluations, and audit documentation completed through the Google Cybersecurity Professional Certificate and independent lab work.
